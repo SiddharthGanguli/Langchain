@@ -1,4 +1,4 @@
-Use **Ollama** to run open-source LLMs locally (like `gemma`, `llama2`, etc.)
+=> Use **Ollama** to run open-source LLMs locally (like `gemma`, `llama2`, etc.)
 - Use **LangChain** to interact with the LLM in an easy and structured way
 - Pass a text prompt and get a smart response from the model
 
@@ -7,7 +7,7 @@ Use **Ollama** to run open-source LLMs locally (like `gemma`, `llama2`, etc.)
 It's lightweight, works on a **Mac M1** or any other machine that supports Ollama, and doesn't require an internet connection once the model is downloaded.
 
 
-## 🔧 Tools Used
+## => Tools Used
 
 | Tool          | Purpose                                      |
 |---------------|----------------------------------------------|
@@ -15,7 +15,7 @@ It's lightweight, works on a **Mac M1** or any other machine that supports Ollam
 | ** LangChain  | Simplifies working with LLMs via Python      |
 | ** Python     | Programming language for this project        |
 
-##  How to Set It Up
+## => How to Set It Up
 1. Install Ollama and LangChain using pip:
 brew install ollama
 
