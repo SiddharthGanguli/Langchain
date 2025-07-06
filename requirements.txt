@@ -1,0 +1,4 @@
+langchain 
+angchain-community
+# ollama 
+# ollama pull "model name " eg: gemma:2b or llama3
