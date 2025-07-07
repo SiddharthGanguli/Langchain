@@ -13,6 +13,8 @@ def users(message):
     prompt=[HumanMessage(content=message)]
     respose=model.invoke(prompt)
     return respose
+
+# chat loop
 if __name__ == "__main__":
     print("welcome Rik's Local Chat bot -> ")
     while True: 
