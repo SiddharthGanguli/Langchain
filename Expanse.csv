@@ -1,0 +1,649 @@
+Date,Category,Amount,Payment Method
+2024-08-06,Travel,1644,UPI
+2024-08-06,Groceries,1727,Cash
+2024-08-07,Food,4230,UPI
+2024-08-07,Entertainment,2869,Cash
+2024-08-08,Bills,3712,Cash
+2024-08-08,Shopping,2294,Credit Card
+2024-08-08,Health,1836,Debit Card
+2024-08-09,Food,366,UPI
+2024-08-09,Food,264,Cash
+2024-08-09,Shopping,2290,Credit Card
+2024-08-10,Entertainment,1128,UPI
+2024-08-10,Bills,2274,Credit Card
+2024-08-10,Bills,1421,Cash
+2024-08-10,Groceries,697,UPI
+2024-08-11,Entertainment,2546,Debit Card
+2024-08-11,Bills,1436,UPI
+2024-08-12,Groceries,2342,UPI
+2024-08-12,Travel,1529,Debit Card
+2024-08-12,Bills,2945,Debit Card
+2024-08-12,Groceries,2598,UPI
+2024-08-12,Entertainment,2138,Cash
+2024-08-13,Food,329,UPI
+2024-08-13,Entertainment,2717,Debit Card
+2024-08-13,Travel,909,Credit Card
+2024-08-13,Health,3787,Debit Card
+2024-08-13,Health,4029,UPI
+2024-08-14,Travel,1110,UPI
+2024-08-14,Bills,3907,Credit Card
+2024-08-15,Entertainment,1678,Credit Card
+2024-08-15,Shopping,2328,UPI
+2024-08-15,Shopping,4653,Credit Card
+2024-08-15,Food,475,Cash
+2024-08-15,Bills,1240,Credit Card
+2024-08-16,Entertainment,13312,Credit Card
+2024-08-16,Bills,1043,Credit Card
+2024-08-16,Entertainment,732,Debit Card
+2024-08-17,Groceries,982,Debit Card
+2024-08-17,Health,4211,Debit Card
+2024-08-17,Travel,921,Debit Card
+2024-08-18,Entertainment,2236,Debit Card
+2024-08-18,Groceries,1693,Cash
+2024-08-18,Shopping,1686,Debit Card
+2024-08-18,Health,4365,Debit Card
+2024-08-18,Shopping,2116,Cash
+2024-08-19,Groceries,2117,Credit Card
+2024-08-19,Travel,1640,Credit Card
+2024-08-19,Bills,1086,UPI
+2024-08-20,Health,10890,UPI
+2024-08-20,Shopping,1412,UPI
+2024-08-20,Health,756,Cash
+2024-08-20,Travel,1999,UPI
+2024-08-21,Food,264,Cash
+2024-08-21,Entertainment,2049,Credit Card
+2024-08-21,Bills,4444,Cash
+2024-08-21,Shopping,28203,Debit Card
+2024-08-22,Shopping,520,Cash
+2024-08-22,Food,112,Credit Card
+2024-08-22,Shopping,2346,Debit Card
+2024-08-22,Health,3460,Credit Card
+2024-08-23,Shopping,2758,Cash
+2024-08-23,Groceries,2445,Credit Card
+2024-08-23,Bills,1375,Cash
+2024-08-23,Bills,4910,Credit Card
+2024-08-24,Groceries,1790,UPI
+2024-08-24,Food,147,Cash
+2024-08-24,Bills,4387,Debit Card
+2024-08-25,Entertainment,1014,UPI
+2024-08-25,Groceries,1698,UPI
+2024-08-25,Groceries,1810,Credit Card
+2024-08-25,Bills,4180,Cash
+2024-08-26,Travel,549,Credit Card
+2024-08-26,Bills,2057,UPI
+2024-08-27,Entertainment,2434,Debit Card
+2024-08-27,Food,473,UPI
+2024-08-27,Shopping,1734,Credit Card
+2024-08-28,Food,386,Cash
+2024-08-28,Shopping,2865,UPI
+2024-08-28,Entertainment,926,Debit Card
+2024-08-29,Travel,831,Credit Card
+2024-08-29,Entertainment,6020,Debit Card
+2024-08-29,Health,4739,UPI
+2024-08-30,Health,1282,Credit Card
+2024-08-30,Shopping,2090,Cash
+2024-08-30,Bills,1735,Debit Card
+2024-08-31,Bills,1547,UPI
+2024-08-31,Groceries,1919,UPI
+2024-08-31,Groceries,2757,Credit Card
+2024-08-31,Food,477,Cash
+2024-08-31,Entertainment,828,Credit Card
+2024-09-01,Entertainment,2050,Debit Card
+2024-09-01,Shopping,3252,Debit Card
+2024-09-02,Entertainment,2860,Debit Card
+2024-09-02,Groceries,542,Debit Card
+2024-09-02,Entertainment,1581,UPI
+2024-09-02,Health,2118,Debit Card
+2024-09-03,Food,296,UPI
+2024-09-03,Food,350,UPI
+2024-09-03,Bills,1879,Debit Card
+2024-09-03,Health,24374,UPI
+2024-09-03,Entertainment,1901,Debit Card
+2024-09-04,Health,2887,UPI
+2024-09-04,Groceries,1779,Credit Card
+2024-09-04,Food,441,UPI
+2024-09-05,Food,336,Cash
+2024-09-05,Bills,4212,UPI
+2024-09-05,Travel,1082,UPI
+2024-09-06,Groceries,1521,Debit Card
+2024-09-06,Shopping,791,Cash
+2024-09-06,Bills,4536,Credit Card
+2024-09-07,Bills,4457,UPI
+2024-09-07,Bills,4351,Cash
+2024-09-07,Shopping,797,Credit Card
+2024-09-07,Bills,1743,Debit Card
+2024-09-08,Bills,3299,Cash
+2024-09-08,Bills,4778,UPI
+2024-09-08,Food,154,UPI
+2024-09-08,Shopping,1897,UPI
+2024-09-08,Groceries,2923,Cash
+2024-09-09,Shopping,2124,Debit Card
+2024-09-09,Bills,2964,Cash
+2024-09-10,Travel,1109,Cash
+2024-09-10,Travel,323,UPI
+2024-09-10,Food,261,Cash
+2024-09-10,Groceries,1873,Cash
+2024-09-11,Shopping,725,Debit Card
+2024-09-11,Health,1556,UPI
+2024-09-11,Travel,1382,UPI
+2024-09-11,Bills,4135,Credit Card
+2024-09-11,Food,169,Credit Card
+2024-09-12,Entertainment,1883,Cash
+2024-09-12,Health,1521,UPI
+2024-09-12,Health,4200,UPI
+2024-09-12,Food,185,Cash
+2024-09-12,Bills,3580,Credit Card
+2024-09-13,Entertainment,2968,Debit Card
+2024-09-13,Entertainment,1160,UPI
+2024-09-13,Food,396,UPI
+2024-09-13,Travel,1796,Credit Card
+2024-09-14,Travel,493,Credit Card
+2024-09-14,Food,298,Cash
+2024-09-15,Health,30240,Credit Card
+2024-09-15,Shopping,1671,Credit Card
+2024-09-15,Entertainment,1780,UPI
+2024-09-15,Groceries,2461,Credit Card
+2024-09-15,Shopping,1016,UPI
+2024-09-16,Entertainment,6840,Debit Card
+2024-09-16,Entertainment,2482,Debit Card
+2024-09-16,Travel,1388,Debit Card
+2024-09-16,Food,194,Debit Card
+2024-09-16,Food,294,Debit Card
+2024-09-17,Shopping,3069,Cash
+2024-09-17,Travel,1550,Cash
+2024-09-17,Health,4105,UPI
+2024-09-18,Groceries,1459,Cash
+2024-09-18,Groceries,1423,Credit Card
+2024-09-18,Bills,4149,Credit Card
+2024-09-18,Bills,2029,Cash
+2024-09-19,Travel,470,UPI
+2024-09-19,Health,3819,Cash
+2024-09-20,Entertainment,2188,UPI
+2024-09-20,Health,1234,UPI
+2024-09-20,Health,2180,UPI
+2024-09-20,Entertainment,2022,UPI
+2024-09-21,Health,2939,Credit Card
+2024-09-21,Groceries,662,Credit Card
+2024-09-21,Health,4960,Cash
+2024-09-22,Shopping,1676,Cash
+2024-09-22,Bills,1299,Cash
+2024-09-22,Bills,3014,Debit Card
+2024-09-23,Entertainment,2401,Cash
+2024-09-23,Health,2623,Cash
+2024-09-23,Shopping,4082,Credit Card
+2024-09-24,Shopping,1767,Credit Card
+2024-09-24,Groceries,2425,Cash
+2024-09-25,Bills,1240,Debit Card
+2024-09-25,Groceries,2705,Credit Card
+2024-09-25,Food,334,Cash
+2024-09-26,Food,3740,Debit Card
+2024-09-26,Travel,1560,Credit Card
+2024-09-26,Entertainment,1478,UPI
+2024-09-26,Entertainment,2955,Debit Card
+2024-09-26,Health,4574,Debit Card
+2024-09-27,Food,132,Credit Card
+2024-09-27,Shopping,549,Debit Card
+2024-09-27,Travel,328,Cash
+2024-09-27,Shopping,3225,Credit Card
+2024-09-28,Entertainment,2633,Credit Card
+2024-09-28,Shopping,1368,Cash
+2024-09-28,Shopping,3972,UPI
+2024-09-28,Health,4434,Cash
+2024-09-28,Groceries,690,Debit Card
+2024-09-29,Shopping,1919,Debit Card
+2024-09-29,Shopping,1711,UPI
+2024-09-29,Shopping,2616,Credit Card
+2024-09-30,Health,2811,Cash
+2024-09-30,Travel,1938,UPI
+2024-09-30,Food,387,Cash
+2024-09-30,Travel,1411,UPI
+2024-10-01,Travel,1346,Debit Card
+2024-10-01,Groceries,1308,Credit Card
+2024-10-01,Entertainment,1462,Credit Card
+2024-10-02,Groceries,2616,Debit Card
+2024-10-02,Bills,1026,Cash
+2024-10-02,Travel,802,Debit Card
+2024-10-02,Shopping,587,UPI
+2024-10-03,Groceries,1377,Credit Card
+2024-10-03,Groceries,2145,UPI
+2024-10-04,Health,1686,Cash
+2024-10-04,Bills,1924,UPI
+2024-10-04,Groceries,2447,Debit Card
+2024-10-04,Entertainment,2973,Credit Card
+2024-10-05,Entertainment,13902,Debit Card
+2024-10-05,Health,2388,Debit Card
+2024-10-05,Bills,1166,Credit Card
+2024-10-06,Bills,2420,UPI
+2024-10-06,Shopping,2400,Debit Card
+2024-10-07,Food,182,Debit Card
+2024-10-07,Bills,1014,Credit Card
+2024-10-07,Groceries,603,Debit Card
+2024-10-07,Groceries,1130,Debit Card
+2024-10-07,Groceries,1551,Cash
+2024-10-08,Food,212,Credit Card
+2024-10-08,Bills,4213,Debit Card
+2024-10-08,Bills,2086,Cash
+2024-10-08,Travel,965,Cash
+2024-10-08,Bills,2891,UPI
+2024-10-09,Bills,4162,Credit Card
+2024-10-09,Travel,1144,UPI
+2024-10-10,Travel,1996,Debit Card
+2024-10-10,Bills,3228,Debit Card
+2024-10-11,Shopping,4555,Debit Card
+2024-10-11,Travel,736,Debit Card
+2024-10-11,Travel,702,Credit Card
+2024-10-11,Bills,3748,Debit Card
+2024-10-12,Groceries,1207,Credit Card
+2024-10-12,Entertainment,1776,UPI
+2024-10-12,Health,3367,UPI
+2024-10-12,Health,1366,Credit Card
+2024-10-12,Entertainment,703,Debit Card
+2024-10-13,Bills,20853,Cash
+2024-10-13,Bills,3972,Cash
+2024-10-14,Groceries,993,Credit Card
+2024-10-14,Shopping,3472,Credit Card
+2024-10-14,Food,251,UPI
+2024-10-14,Food,138,Debit Card
+2024-10-14,Shopping,1527,UPI
+2024-10-15,Food,290,Credit Card
+2024-10-15,Groceries,1208,Credit Card
+2024-10-16,Health,1860,Debit Card
+2024-10-16,Food,225,Cash
+2024-10-16,Entertainment,7970,Cash
+2024-10-16,Entertainment,677,Cash
+2024-10-17,Travel,1539,UPI
+2024-10-17,Groceries,2178,Credit Card
+2024-10-17,Shopping,28530,UPI
+2024-10-17,Travel,1562,Debit Card
+2024-10-18,Shopping,822,UPI
+2024-10-18,Groceries,2547,Debit Card
+2024-10-18,Health,3310,UPI
+2024-10-18,Bills,2378,Credit Card
+2024-10-19,Entertainment,1457,UPI
+2024-10-19,Bills,3108,Cash
+2024-10-19,Shopping,2294,Debit Card
+2024-10-20,Shopping,1362,UPI
+2024-10-20,Groceries,2605,Cash
+2024-10-20,Groceries,1550,UPI
+2024-10-21,Entertainment,2863,Debit Card
+2024-10-21,Food,185,UPI
+2024-10-21,Shopping,934,Credit Card
+2024-10-22,Entertainment,847,UPI
+2024-10-22,Shopping,1332,Debit Card
+2024-10-22,Entertainment,2844,Credit Card
+2024-10-22,Travel,721,Cash
+2024-10-23,Travel,1888,Debit Card
+2024-10-23,Travel,1183,UPI
+2024-10-23,Travel,709,UPI
+2024-10-24,Shopping,2545,Credit Card
+2024-10-24,Bills,4950,UPI
+2024-10-24,Health,2404,Debit Card
+2024-10-25,Groceries,1258,UPI
+2024-10-25,Food,173,UPI
+2024-10-26,Health,4996,Credit Card
+2024-10-26,Entertainment,444,Cash
+2024-10-26,Health,2335,UPI
+2024-10-26,Entertainment,1439,Cash
+2024-10-27,Shopping,2328,Credit Card
+2024-10-27,Shopping,1317,Cash
+2024-10-27,Health,926,UPI
+2024-10-27,Groceries,678,UPI
+2024-10-28,Health,3670,Cash
+2024-10-28,Bills,2430,Debit Card
+2024-10-28,Food,347,Credit Card
+2024-10-29,Bills,1076,UPI
+2024-10-29,Food,110,UPI
+2024-10-30,Entertainment,2822,Cash
+2024-10-30,Shopping,4927,Cash
+2024-10-30,Health,3776,UPI
+2024-10-30,Food,341,Debit Card
+2024-10-30,Food,329,UPI
+2024-10-31,Travel,1611,Debit Card
+2024-10-31,Food,162,Debit Card
+2024-10-31,Groceries,2353,Credit Card
+2024-10-31,Health,4730,Credit Card
+2024-11-01,Shopping,4055,Credit Card
+2024-11-01,Travel,1306,Credit Card
+2024-11-01,Health,2912,Debit Card
+2024-11-02,Food,193,Cash
+2024-11-02,Health,503,Debit Card
+2024-11-02,Food,233,Debit Card
+2024-11-03,Travel,11508,Cash
+2024-11-03,Health,2116,Debit Card
+2024-11-03,Groceries,2843,Credit Card
+2024-11-03,Entertainment,213,UPI
+2024-11-03,Entertainment,16128,Debit Card
+2024-11-04,Food,424,Debit Card
+2024-11-04,Food,493,UPI
+2024-11-05,Bills,33620,UPI
+2024-11-05,Entertainment,445,Debit Card
+2024-11-06,Travel,1343,Cash
+2024-11-06,Shopping,3019,Debit Card
+2024-11-06,Food,330,Credit Card
+2024-11-06,Groceries,2179,UPI
+2024-11-07,Food,185,UPI
+2024-11-07,Travel,859,Debit Card
+2024-11-07,Bills,3684,UPI
+2024-11-07,Groceries,1890,Credit Card
+2024-11-07,Entertainment,2421,Debit Card
+2024-11-08,Entertainment,552,UPI
+2024-11-08,Groceries,1390,Credit Card
+2024-11-08,Entertainment,234,Credit Card
+2024-11-09,Groceries,744,UPI
+2024-11-09,Groceries,1540,UPI
+2024-11-10,Groceries,2963,Cash
+2024-11-10,Travel,728,Credit Card
+2024-11-10,Shopping,1859,Credit Card
+2024-11-10,Groceries,2907,UPI
+2024-11-11,Entertainment,1696,Credit Card
+2024-11-11,Health,2574,Cash
+2024-11-11,Health,2756,UPI
+2024-11-11,Travel,1186,Credit Card
+2024-11-12,Entertainment,912,UPI
+2024-11-12,Health,3107,Credit Card
+2024-11-13,Shopping,2132,Credit Card
+2024-11-13,Groceries,860,UPI
+2024-11-13,Health,4533,UPI
+2024-11-14,Food,118,UPI
+2024-11-14,Shopping,4024,Credit Card
+2024-11-15,Entertainment,519,Debit Card
+2024-11-15,Health,3609,Credit Card
+2024-11-15,Health,2208,Debit Card
+2024-11-15,Health,4117,Cash
+2024-11-15,Travel,583,Credit Card
+2024-11-16,Groceries,1844,UPI
+2024-11-16,Entertainment,1488,Debit Card
+2024-11-16,Bills,2562,UPI
+2024-11-17,Health,1588,Debit Card
+2024-11-17,Travel,1881,UPI
+2024-11-17,Entertainment,630,Debit Card
+2024-11-17,Travel,378,Debit Card
+2024-11-18,Groceries,1588,Debit Card
+2024-11-18,Entertainment,900,Cash
+2024-11-18,Bills,3301,Credit Card
+2024-11-18,Food,234,Cash
+2024-11-18,Bills,24120,Cash
+2024-11-19,Health,4782,Credit Card
+2024-11-19,Bills,2615,Cash
+2024-11-19,Shopping,4568,Credit Card
+2024-11-19,Health,3444,Debit Card
+2024-11-19,Entertainment,11970,Debit Card
+2024-11-20,Shopping,1430,Debit Card
+2024-11-20,Shopping,1515,Cash
+2024-11-20,Food,195,Debit Card
+2024-11-20,Health,2096,Debit Card
+2024-11-21,Travel,5160,Cash
+2024-11-21,Groceries,1203,UPI
+2024-11-21,Travel,1649,UPI
+2024-11-22,Shopping,3013,UPI
+2024-11-22,Entertainment,2490,Debit Card
+2024-11-22,Entertainment,2457,Debit Card
+2024-11-23,Entertainment,2458,Cash
+2024-11-23,Entertainment,332,Debit Card
+2024-11-23,Entertainment,2844,Credit Card
+2024-11-23,Shopping,4110,Debit Card
+2024-11-24,Bills,3918,Debit Card
+2024-11-24,Health,15712,Cash
+2024-11-24,Shopping,4992,Debit Card
+2024-11-24,Travel,1389,Cash
+2024-11-24,Shopping,3698,Debit Card
+2024-11-25,Food,1998,Debit Card
+2024-11-25,Entertainment,1665,UPI
+2024-11-25,Food,184,UPI
+2024-11-25,Entertainment,2716,UPI
+2024-11-25,Groceries,1353,Cash
+2024-11-26,Bills,12450,Cash
+2024-11-26,Entertainment,1301,Credit Card
+2024-11-26,Travel,1071,Cash
+2024-11-26,Shopping,2001,UPI
+2024-11-26,Bills,2570,UPI
+2024-11-27,Food,289,Debit Card
+2024-11-27,Bills,32536,Cash
+2024-11-28,Bills,1765,UPI
+2024-11-28,Shopping,2390,UPI
+2024-11-28,Groceries,2722,UPI
+2024-11-28,Food,456,Credit Card
+2024-11-29,Health,2004,Credit Card
+2024-11-29,Health,1166,Credit Card
+2024-11-29,Groceries,2430,Cash
+2024-11-30,Groceries,2072,Debit Card
+2024-11-30,Bills,3281,Debit Card
+2024-12-01,Travel,786,Credit Card
+2024-12-01,Food,458,Debit Card
+2024-12-02,Food,311,Cash
+2024-12-02,Bills,4501,Debit Card
+2024-12-02,Bills,15894,Debit Card
+2024-12-02,Shopping,1904,Debit Card
+2024-12-02,Food,430,Credit Card
+2024-12-03,Entertainment,209,UPI
+2024-12-03,Entertainment,1996,Credit Card
+2024-12-03,Health,2010,Credit Card
+2024-12-04,Food,120,Cash
+2024-12-04,Entertainment,543,Credit Card
+2024-12-04,Shopping,977,Cash
+2024-12-05,Bills,1093,Debit Card
+2024-12-05,Entertainment,923,Cash
+2024-12-05,Entertainment,1047,UPI
+2024-12-05,Entertainment,2013,UPI
+2024-12-05,Groceries,13350,Credit Card
+2024-12-06,Groceries,2585,Credit Card
+2024-12-06,Health,2780,Debit Card
+2024-12-06,Food,480,Credit Card
+2024-12-06,Bills,4658,Debit Card
+2024-12-06,Food,188,Credit Card
+2024-12-07,Health,3878,Cash
+2024-12-07,Bills,3892,Debit Card
+2024-12-07,Health,4063,Cash
+2024-12-07,Shopping,934,Credit Card
+2024-12-08,Health,4542,UPI
+2024-12-08,Groceries,2812,Debit Card
+2024-12-08,Shopping,977,Debit Card
+2024-12-08,Entertainment,370,Debit Card
+2024-12-08,Travel,985,Debit Card
+2024-12-09,Health,2826,UPI
+2024-12-09,Food,223,Debit Card
+2024-12-09,Health,3898,Credit Card
+2024-12-09,Shopping,1746,Credit Card
+2024-12-10,Travel,10878,Debit Card
+2024-12-10,Shopping,3083,Cash
+2024-12-10,Bills,1728,Cash
+2024-12-10,Shopping,4606,Cash
+2024-12-10,Bills,3532,Cash
+2024-12-11,Travel,1902,Cash
+2024-12-11,Entertainment,384,UPI
+2024-12-11,Bills,2240,Credit Card
+2024-12-11,Travel,1312,Credit Card
+2024-12-12,Groceries,2208,Debit Card
+2024-12-12,Health,2811,UPI
+2024-12-12,Shopping,2813,UPI
+2024-12-12,Health,4387,Cash
+2024-12-13,Bills,3226,UPI
+2024-12-13,Bills,4084,Debit Card
+2024-12-13,Travel,1179,UPI
+2024-12-13,Health,3307,Cash
+2024-12-14,Groceries,2870,Debit Card
+2024-12-14,Groceries,707,Debit Card
+2024-12-14,Bills,2584,Debit Card
+2024-12-14,Shopping,2004,Debit Card
+2024-12-14,Travel,1668,Credit Card
+2024-12-15,Food,265,UPI
+2024-12-15,Food,910,Cash
+2024-12-15,Health,4787,Credit Card
+2024-12-16,Health,1827,Credit Card
+2024-12-16,Health,4740,Cash
+2024-12-16,Groceries,2600,Credit Card
+2024-12-16,Bills,4931,Cash
+2024-12-16,Shopping,2103,Credit Card
+2024-12-17,Entertainment,2582,UPI
+2024-12-17,Groceries,734,Debit Card
+2024-12-18,Bills,2563,Debit Card
+2024-12-18,Food,230,UPI
+2024-12-18,Bills,1341,Debit Card
+2024-12-18,Food,314,UPI
+2024-12-19,Bills,3054,Credit Card
+2024-12-19,Bills,1864,Credit Card
+2024-12-19,Entertainment,2580,Cash
+2024-12-19,Groceries,551,Credit Card
+2024-12-20,Groceries,2191,UPI
+2024-12-20,Shopping,3568,Cash
+2024-12-20,Bills,1307,Credit Card
+2024-12-21,Travel,1917,UPI
+2024-12-21,Entertainment,584,Cash
+2024-12-21,Bills,3681,Cash
+2024-12-22,Food,103,Cash
+2024-12-22,Bills,2833,Cash
+2024-12-23,Bills,2228,UPI
+2024-12-23,Groceries,2904,Cash
+2024-12-23,Bills,4187,UPI
+2024-12-24,Entertainment,1102,UPI
+2024-12-24,Health,4894,Cash
+2024-12-24,Entertainment,244,Debit Card
+2024-12-24,Travel,887,Cash
+2024-12-24,Travel,661,Credit Card
+2024-12-25,Entertainment,2140,Cash
+2024-12-25,Travel,1194,UPI
+2024-12-26,Food,433,Cash
+2024-12-26,Groceries,1407,Credit Card
+2024-12-26,Shopping,1633,Debit Card
+2024-12-26,Food,1395,Credit Card
+2024-12-27,Shopping,3740,Cash
+2024-12-27,Entertainment,958,Credit Card
+2024-12-27,Entertainment,2908,Debit Card
+2024-12-28,Travel,1600,Debit Card
+2024-12-28,Entertainment,1018,Cash
+2024-12-28,Travel,1280,Credit Card
+2024-12-28,Food,191,UPI
+2024-12-28,Entertainment,8127,Credit Card
+2024-12-29,Shopping,2611,Debit Card
+2024-12-29,Food,260,Debit Card
+2024-12-30,Travel,396,Credit Card
+2024-12-30,Travel,939,Debit Card
+2024-12-30,Groceries,2319,Cash
+2024-12-30,Travel,1100,Cash
+2024-12-30,Health,2117,Debit Card
+2024-12-31,Groceries,2642,Cash
+2024-12-31,Groceries,693,Debit Card
+2024-12-31,Groceries,2054,Cash
+2024-12-31,Groceries,1891,Debit Card
+2024-12-31,Entertainment,1620,Debit Card
+2025-01-01,Bills,3802,Credit Card
+2025-01-01,Groceries,904,Cash
+2025-01-01,Health,2468,Credit Card
+2025-01-01,Bills,2943,Credit Card
+2025-01-01,Shopping,4679,Debit Card
+2025-01-02,Entertainment,2451,Credit Card
+2025-01-02,Health,1013,Credit Card
+2025-01-02,Groceries,2824,Credit Card
+2025-01-02,Entertainment,2857,UPI
+2025-01-03,Shopping,3827,UPI
+2025-01-03,Bills,1560,Debit Card
+2025-01-03,Entertainment,2579,Cash
+2025-01-03,Health,421,UPI
+2025-01-03,Groceries,2455,Cash
+2025-01-04,Groceries,1670,Debit Card
+2025-01-04,Health,3940,Cash
+2025-01-04,Food,379,Credit Card
+2025-01-05,Shopping,816,UPI
+2025-01-05,Groceries,1181,Cash
+2025-01-05,Health,615,Credit Card
+2025-01-05,Entertainment,752,Debit Card
+2025-01-05,Bills,2311,Credit Card
+2025-01-06,Food,200,Debit Card
+2025-01-06,Shopping,4937,UPI
+2025-01-06,Entertainment,1950,UPI
+2025-01-07,Groceries,996,Credit Card
+2025-01-07,Entertainment,2300,Credit Card
+2025-01-07,Bills,1789,Credit Card
+2025-01-07,Entertainment,2656,Credit Card
+2025-01-08,Entertainment,2382,Cash
+2025-01-08,Food,250,Cash
+2025-01-08,Groceries,2095,Cash
+2025-01-09,Entertainment,2399,Credit Card
+2025-01-09,Entertainment,664,Credit Card
+2025-01-09,Shopping,533,Cash
+2025-01-09,Shopping,3793,Cash
+2025-01-09,Food,483,Credit Card
+2025-01-10,Health,1204,UPI
+2025-01-10,Shopping,4173,Debit Card
+2025-01-10,Bills,2511,Cash
+2025-01-10,Entertainment,597,Cash
+2025-01-10,Travel,1869,Cash
+2025-01-11,Health,1499,Cash
+2025-01-11,Shopping,2748,UPI
+2025-01-11,Groceries,1843,Credit Card
+2025-01-11,Travel,1413,Cash
+2025-01-12,Entertainment,2613,Cash
+2025-01-12,Groceries,1352,UPI
+2025-01-12,Shopping,4148,Debit Card
+2025-01-13,Shopping,1809,Credit Card
+2025-01-13,Health,474,Credit Card
+2025-01-14,Entertainment,1033,Credit Card
+2025-01-14,Bills,1063,UPI
+2025-01-15,Bills,1446,Credit Card
+2025-01-15,Groceries,2203,UPI
+2025-01-15,Food,834,Credit Card
+2025-01-15,Entertainment,1566,UPI
+2025-01-15,Bills,3456,Debit Card
+2025-01-16,Travel,1430,Credit Card
+2025-01-16,Food,376,Debit Card
+2025-01-17,Travel,1473,UPI
+2025-01-17,Health,2961,Credit Card
+2025-01-17,Travel,426,Debit Card
+2025-01-17,Food,127,UPI
+2025-01-17,Entertainment,2640,Debit Card
+2025-01-18,Health,989,Debit Card
+2025-01-18,Shopping,4673,Debit Card
+2025-01-18,Health,847,Credit Card
+2025-01-18,Travel,522,UPI
+2025-01-19,Shopping,851,UPI
+2025-01-19,Food,482,UPI
+2025-01-19,Travel,1242,Credit Card
+2025-01-19,Food,269,Credit Card
+2025-01-19,Food,167,Credit Card
+2025-01-20,Entertainment,1442,UPI
+2025-01-20,Shopping,3359,Credit Card
+2025-01-20,Bills,3605,Cash
+2025-01-20,Travel,552,UPI
+2025-01-21,Shopping,1773,Cash
+2025-01-21,Travel,9100,Cash
+2025-01-21,Shopping,3255,Debit Card
+2025-01-21,Food,2672,Credit Card
+2025-01-21,Groceries,1993,Debit Card
+2025-01-22,Travel,1382,Debit Card
+2025-01-22,Shopping,3951,UPI
+2025-01-22,Health,2759,Credit Card
+2025-01-23,Shopping,2279,Debit Card
+2025-01-23,Groceries,600,Debit Card
+2025-01-23,Food,205,Credit Card
+2025-01-23,Food,417,Debit Card
+2025-01-23,Groceries,1170,Credit Card
+2025-01-24,Entertainment,1435,Debit Card
+2025-01-24,Food,156,Cash
+2025-01-24,Groceries,1327,Cash
+2025-01-24,Bills,2091,UPI
+2025-01-25,Entertainment,1006,Cash
+2025-01-25,Food,318,Credit Card
+2025-01-26,Food,2936,Debit Card
+2025-01-26,Shopping,928,Credit Card
+2025-01-26,Food,273,Cash
+2025-01-26,Travel,1128,Credit Card
+2025-01-26,Bills,3758,UPI
+2025-01-27,Entertainment,1839,UPI
+2025-01-27,Health,4461,Debit Card
+2025-01-27,Groceries,2457,Credit Card
+2025-01-27,Health,1924,Credit Card
+2025-01-28,Groceries,2622,UPI
+2025-01-28,Bills,4066,UPI
+2025-01-29,Shopping,3860,Cash
+2025-01-29,Entertainment,8855,Debit Card
+2025-01-30,Health,16212,Credit Card
+2025-01-30,Health,1066,Cash
+2025-01-30,Groceries,877,Credit Card
+2025-01-30,Groceries,11286,Credit Card
+2025-01-31,Bills,4355,Debit Card
+2025-01-31,Health,325,Debit Card
+2025-02-01,Groceries,720,UPI
+2025-02-01,Bills,3443,Cash
+2025-02-01,Groceries,2992,Cash
+2025-02-01,Shopping,727,Cash
+2025-02-01,Groceries,15370,Cash
