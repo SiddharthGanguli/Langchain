@@ -2,3 +2,6 @@ langchain
 angchain-community
 # ollama 
 # ollama pull "model name " eg: gemma:2b or llama3
+# pip install -U langsmith
+
+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
