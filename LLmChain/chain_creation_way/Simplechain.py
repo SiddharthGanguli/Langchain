@@ -30,3 +30,6 @@ chain=templete | model
 response = chain.invoke(prompt)
 
 print(response)
+
+# pip install grandalf
+chain.get_graph().print_ascii()
